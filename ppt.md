@@ -5,3 +5,8 @@
 5. git commit
    - -m 提交记录
    - --amend 修改提交记录（IDEA F2）
+6. git rebase
+   - -i 
+     - squash 合并提交 (Git -> Rebase -> interactive commit -> 选择fixed up -> apply)
+     - reword 修改历史提交记录
+
