@@ -8,5 +8,4 @@
 6. git rebase
    - -i 
      - squash 合并提交 (Git -> Rebase -> interactive commit -> 选择fixed up -> apply)
-     - reword 修改历史提交记录
-
+     - reword 修改历史提交记录(Git -> Rebase -> interactive commit -> 选择reword -> apply)
